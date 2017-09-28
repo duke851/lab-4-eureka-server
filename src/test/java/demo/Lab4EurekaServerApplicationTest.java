@@ -8,7 +8,7 @@ public class Lab4EurekaServerApplicationTest {
 
 	@Test
 	public void testServer() {
-		Assert.assertTrue( 1==1);
+		Assert.assertTrue( 1 == 1);
 	}
 
 }
